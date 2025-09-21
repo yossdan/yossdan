@@ -52,13 +52,14 @@
 ## 📊 Estadísticas de GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yossdan&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FF0000" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yossdan&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FF0000" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yossdan&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=4B0000&text_color=4B0000" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yossdan&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=4B0000&text_color=4B0000" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yossdan&theme=dark&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" alt="racha de commits"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yossdan&theme=dark&background=000000&stroke=4B0000&ring=4B0000&fire=4B0000&currStreakLabel=4B0000" alt="racha de commits"/>
 </p>
+
 
 ---
 
