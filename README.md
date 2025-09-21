@@ -1,13 +1,13 @@
-<h1 align="center" style="color:#FF0000;">Hola, soy Daniel Iuit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center" style="color:#8B0000;">Hola, soy Daniel Iuit 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" style="border-radius:50%; border:2px solid #8B0000;">
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FF0000&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Estudiante+de+Software;Amante+de+la+tecnología;Siempre+aprendiendo;Trabajo+en+equipo;Full+Stack+Jr." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%238B0000&size=28&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Estudiante+de+Software;Amante+de+la+tecnología;Siempre+aprendiendo;Trabajo+en+equipo;Full+Stack+Jr." />
 </p>
 
-<br>
-
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=yossdan&label=Visitas&color=FF0000&style=flat-square" alt="yossdan" height=25px width=120px/> 
+  <img src="https://komarev.com/ghpvc/?username=yossdan&label=Visitas&color=8B0000&style=flat-square" alt="yossdan" height=25px width=120px/> 
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ## 📌 Sobre mí
 
 <picture> 
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px style="border-radius:15px; border:2px solid #8B0000;">
 </picture>
 
 - 🎓 Estudiante de **Ingeniería en Desarrollo de Software** en la **UPP**  
@@ -45,27 +45,24 @@
   <img alt="Select2" src="https://img.shields.io/badge/Select2-8B0000?style=for-the-badge&logoColor=white">
 </p>
 
-
-
 ---
 
 ## 📊 Estadísticas de GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yossdan&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=4B0000&text_color=4B0000" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yossdan&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=4B0000&text_color=4B0000" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yossdan&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=4B0000&text_color=8B0000" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yossdan&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=4B0000&text_color=8B0000" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yossdan&theme=dark&background=000000&stroke=4B0000&ring=4B0000&fire=4B0000&currStreakLabel=4B0000" alt="racha de commits"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yossdan&theme=dark&background=000000&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakLabel=8B0000" alt="racha de commits"/>
 </p>
-
 
 ---
 
 ## 📫 Contáctame
 
 <p align="center">
-  <a href="mailto:diuitcan@gmail.com"><img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/yossdan"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:diuitcan@gmail.com"><img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/yossdan"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8B0000" alt="GitHub"/></a>
 </p>
