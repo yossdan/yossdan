@@ -20,7 +20,7 @@
 
 - 🎓 Estudiante de **Ingeniería en Desarrollo de Software** en la **UPP**  
 - 💻 **Desarrollador Web Junior** (Laravel/PHP, JS, HTML, CSS, MySQL)  
-- 🚀 Experiencia en **sistemas web** y apps móviles  
+- 🚀 Experiencia en **sistemas web**
 - 📚 Siempre aprendiendo **nuevas tecnologías**  
 - 🤝 Enfocado en **trabajo en equipo** y crecimiento profesional  
 
